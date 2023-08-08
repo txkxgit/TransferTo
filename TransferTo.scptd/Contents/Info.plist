@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>net.thk.TransferTo</string>
+	<key>CFBundleName</key>
+	<string>TransferTo</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0.4</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>2017 by ThK</string>
+	<key>WindowState</key>
+	<dict>
+		<key>bundleDividerCollapsed</key>
+		<false/>
+		<key>bundlePositionOfDivider</key>
+		<real>916</real>
+		<key>dividerCollapsed</key>
+		<true/>
+		<key>eventLogLevel</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>ScriptWindowState</string>
+		<key>positionOfDivider</key>
+		<real>590</real>
+		<key>savedFrame</key>
+		<string>68 233 1215 794 0 0 1680 1027 </string>
+		<key>selectedTab</key>
+		<string>description</string>
+	</dict>
+</dict>
+</plist>
